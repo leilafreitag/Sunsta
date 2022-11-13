@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import styles from './App.module.css';
+import {Nikita} from "./components/Nikita";
+import {Leila} from "./components/Leila";
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
         >
           Learn Solid
         </a>
+        <Nikita/>
+        <Leila/>
       </header>
     </div>
   );
