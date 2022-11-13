@@ -19,8 +19,8 @@ function App() {
         >
           Learn Solid
         </a>
-        <Nikita/>
         <Leila/>
+        <Nikita/>
       </header>
     </div>
   );
