@@ -1,5 +1,8 @@
 export function Nikita() {
     return (
-        <h1>This is Nikita</h1>
+        <div>
+            <h1>This is Nikita</h1>
+            <div>penis</div>
+        </div>
     );
 }
